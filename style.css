@@ -1,0 +1,31 @@
+body {
+  min-width: 300px;
+  max-width: 1200px;
+}
+
+.title {
+  color: rgba(169, 18, 220, 0.847);
+  width: 1000 px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+li {
+  padding: 0;
+  list-style: lower-roman;
+  color: darkslategray;
+}
+.divcontainer {
+  display: flex;
+  padding: 0px;
+  font-size: medium;
+}
+.pspace {
+  padding: 2px;
+}
+.delbtn {
+  width: 20px;
+  height: 20px;
+  border-style: unset;
+  background-color: white;
+  color: rgb(93, 45, 171);
+  font-size: smaller;
+}
